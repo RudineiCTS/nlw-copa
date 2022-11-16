@@ -6,7 +6,7 @@ import iconCheckIgm from '../assets/icon-check.svg';
 
 export default function Home() {
   return (
-    <div className='max-w-[1124px] h-screen  mx-auto grid grid-cols-2 gap-28 first-letter:items-center'>
+    <div className='max-w-[1124px] h-screen  mx-auto grid grid-cols-2 gap-28 items-center'>
       <main>
         <Image src={logoImg} alt='nlw copa'/>
 
